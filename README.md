@@ -1,19 +1,17 @@
 # 💫 About Me
 Hi! I’m **Rohman**, a **Web Developer Engineer** passionate about building **modern, responsive, and user-friendly web applications**.  
-I love exploring new technologies and turning ideas into real projects that solve problems.
+I love exploring new technologies and turning ideas into real projects that solve real problems.  
 
 ---
 
 ## 🌟 Career Objective
-I am seeking opportunities as a **Full-Stack Web Developer** where I can contribute to building impactful web applications, continuously grow my skills, and work with innovative teams.
+Seeking opportunities as a **Full-Stack Web Developer** to contribute to impactful web applications, improve my skills, and work with innovative teams.
 
 ---
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/that-rohman) 
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/that-rohman)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/rohmanBlue)  
-
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rohmanBlue)
 
 ---
@@ -32,17 +30,26 @@ I am seeking opportunities as a **Full-Stack Web Developer** where I can contrib
 
 ---
 
-## 🏆 Projects & Mini-Projects
-**Event Management Platform** (by Rohman & Afred Team)  
-- Build an MVP for event discovery, ticketing, and organizer dashboard.  
-- Features: Event listing, search & filter with debounce, paid/free ticketing, referral system, promotion codes, event reviews & ratings.  
-- Roles: Customers & Event Organizers with proper authentication and authorization.  
-- Tech: Next.js, Node.js, Express, MySQL, Prisma, TailwindCSS.
+## 🏆 Projects
 
-**Other Mini-Projects:**  
-- Personal portfolio website  
-- API integrations for payment & user authentication  
-- Interactive dashboards with charts & graphs
+### 1️⃣ [LunoEvent (Mini Project)](https://github.com/rohmanBlue/LunoEvent)  
+- Event Management Platform (Rohman & Afred Team)  
+- Features: Event listing, search with debounce, ticketing (free & paid), referral system, promotions, reviews & ratings.  
+- Tech: Next.js, Node.js, Express, Prisma, MySQL, TailwindCSS.  
+
+### 2️⃣ [My Profile](https://github.com/rohmanBlue/myProfile)  
+- Personal portfolio website showcasing skills, projects, and GitHub stats.  
+- Tech: Next.js, TailwindCSS.  
+
+### 3️⃣ [EventlyCMS](https://github.com/rohmanBlue/EventlyCms)  
+- Content Management System for events with dashboard for organizers.  
+- Features: CRUD events, manage attendees, promotions, and analytics.  
+- Tech: Next.js, Node.js, Express, MySQL, Prisma, TailwindCSS.  
+
+### 4️⃣ [Yayasan Mangrove Lestari](https://github.com/rohmanBlue/YayasanMangroveLestari)  
+- Non-profit website for Mangrove conservation foundation.  
+- Features: Informational website, donation system, and event updates.  
+- Tech: Next.js, TailwindCSS.
 
 ---
 
