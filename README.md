@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web Developer | Building modern, responsive, and user-friendly web applications | Always learning and exploring new technologies
+I am a Web Developer Engineering | Building modern, responsive, and user-friendly web applications | Always learning and exploring new technologies
 
 
 ## 🌐 Socials:
