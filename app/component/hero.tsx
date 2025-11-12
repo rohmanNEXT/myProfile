@@ -5,7 +5,7 @@ import Image from "next/image";
 import { FaWhatsapp } from "react-icons/fa";
 import { MdArrowOutward } from "react-icons/md";
 
-const Hero: React.FC = () => {
+const Hero: React.FC = () => {  
   
   return (
     <div className="w-full min-h-screen flex items-center" id="Home">
