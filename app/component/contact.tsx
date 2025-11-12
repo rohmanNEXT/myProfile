@@ -15,7 +15,7 @@ const Contact: React.FC = () => {
     setLoading(true);
 
     emailjs
-      .sendForm(
+      .sendForm( 
         "YOUR_SERVICE_ID", // Ganti dengan Service ID EmailJS kamu
         "YOUR_TEMPLATE_ID", // Ganti dengan Template ID EmailJS kamu
         formRef.current,
@@ -33,7 +33,7 @@ const Contact: React.FC = () => {
   };
 
   const openWhatsApp = () => {
-    const phoneNumber = "6281234567890"; // Nomor WA (format internasional tanpa +)
+    const phoneNumber = "085646831030"; // Nomor WA (format internasional tanpa +)
     const text = encodeURIComponent("Halo, saya ingin menghubungi Anda melalui website.");
     window.open(`https://wa.me/${phoneNumber}?text=${text}`, "_blank");
   };
