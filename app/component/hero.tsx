@@ -28,7 +28,7 @@ const Hero: React.FC = () => {
 
           {/* Tombol Contact WhatsApp */}
   <a
-  href="https://wa.me/085646831030"
+  href="https://wa.me/6285646831030"
   target="_blank"
   rel="noopener noreferrer"
   className="flex items-center justify-between gap-3 
