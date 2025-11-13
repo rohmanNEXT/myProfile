@@ -33,7 +33,7 @@ const Contact: React.FC = () => {
   };
 
   const openWhatsApp = () => {
-    const phoneNumber = "085646831030"; // Nomor WA (format internasional tanpa +)
+    const phoneNumber = "6285646831030"; // Nomor WA (format internasional tanpa +)
     const text = encodeURIComponent("Halo, saya ingin menghubungi Anda melalui website.");
     window.open(`https://wa.me/${phoneNumber}?text=${text}`, "_blank");
   };
