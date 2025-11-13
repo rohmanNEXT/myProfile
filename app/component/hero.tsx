@@ -8,7 +8,7 @@ import { MdArrowOutward } from "react-icons/md";
 const Hero: React.FC = () => {  
   
   return (
-    <div className="w-full min-h-screen flex items-center" id="Home">
+    <div className="w-full min-h-screen flex items-center  mt-16 sm:mt-16 md:mt-16 lg:mt-0 xl:mt-0" id="Home">
       <div className="max-w-7xl mx-auto w-full flex flex-col md:flex-row items-center justify-between px-8 md:px-20 lg:px-20 gap-16 md:gap-32">
 
         {/* Kiri: Foto profil + tombol WA */}
