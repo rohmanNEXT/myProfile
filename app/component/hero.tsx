@@ -17,8 +17,8 @@ const Hero: React.FC = () => {
             <Image
               src="/file.svg"
               alt="Profile"
-              width={800}
-              height={800}
+              width={400}
+              height={400}
               className="border-4 border-[#6b63f1] shadow-3xl boder-white rounded-3xl bg-black"
             />
 
