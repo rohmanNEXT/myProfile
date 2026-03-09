@@ -89,7 +89,7 @@ const Contact: React.FC = () => {
         <button
           type="submit"
           disabled={loading}
-          className="text-[#efeeff] font-semibold py-4 rounded-xl text-lg sm:text-xl bg-[#1e1b4b]/80 hover:bg-[#1e1b4b]/40 transition border border-[#aaa5fc]/40 disabled:opacity-60"
+          className="text-[#efeeff] font-semibold py-4 rounded-xl text-lg sm:text-xl bg-[#1e1b4b]/80 hover:bg-[#1e1b4b]/40 transition border border-[#aaa5fc]/40 disabled:opacity-60 cursor-pointer"
         >
           {loading ? "Mengirim..." : "Kirim Pesan"}
         </button>
@@ -97,7 +97,7 @@ const Contact: React.FC = () => {
         <button
           type="button"
           onClick={openWhatsApp}
-          className="text-[#efeeff] font-semibold py-4 rounded-xl text-lg sm:text-xl bg-[#1e1b4b]/20 hover:bg-[#1e1b4b]/80 transition border border-[#aaa5fc]/40"
+          className="text-[#efeeff] font-semibold py-4 rounded-xl text-lg sm:text-xl bg-[#1e1b4b]/20 hover:bg-[#1e1b4b]/80 transition border border-[#aaa5fc]/40 cursor-pointer"
         >
           Hubungi via WhatsApp
         </button>
